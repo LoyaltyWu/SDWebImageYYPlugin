@@ -6,7 +6,7 @@
  */
 
 
-#import <YYKit/YYCache.h>
+#import <YYCache/YYCache.h>
 #import <SDWebImage/SDWebImage.h>
 
 /// YYCache category to support `SDImageCache` protocol. This allow user who prefer YYCache to be used as SDWebImage's custom image cache
