@@ -5,7 +5,7 @@
  * file that was distributed with this source code.
  */
 
-#import <YYCache/YYMemoryCache.h>
+#import <YYKit/YYMemoryCache.h>
 #import <SDWebImage/SDWebImage.h>
 
 /// YYMemoryCache category to support `SDMemoryCache` protocol. This allow user who prefer YYMemoryCache to be used as SDWebImage's custom memory cache
