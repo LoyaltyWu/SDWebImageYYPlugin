@@ -5,7 +5,7 @@
  * file that was distributed with this source code.
  */
 
-#import <YYImage/YYImage.h>
+#import <YYKit/YYImage.h>
 #import <SDWebImage/SDWebImage.h>
 
 /**

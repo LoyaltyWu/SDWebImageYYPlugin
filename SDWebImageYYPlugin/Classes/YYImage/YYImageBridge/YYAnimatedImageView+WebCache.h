@@ -5,7 +5,7 @@
  * file that was distributed with this source code.
  */
 
-#import <YYImage/YYAnimatedImageView.h>
+#import <YYKit/YYAnimatedImageView.h>
 #import <SDWebImage/SDWebImage.h>
 
 /// YYAnimatedImageView Category to support load image with SDWebImage loading system.
